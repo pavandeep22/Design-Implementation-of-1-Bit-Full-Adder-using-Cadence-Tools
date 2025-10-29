@@ -32,7 +32,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![Screenshot 2025-03-28 193352](https://github.com/user-attachments/assets/08a3dce3-1de0-4f1e-b050-7c3569490edd)
+
+<img width="712" height="433" alt="image" src="https://github.com/user-attachments/assets/ac1969f6-b2b5-4394-9dba-d457dfa5ebe9" />
 
 
 ## Truth Table for 1-Bit Full Adder
@@ -41,7 +42,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-<img width="1920" height="1080" alt="Screenshot 2025-09-29 165145" src="https://github.com/user-attachments/assets/7b9f26ec-f7c5-45a4-9309-c1f129d8f6d5" />
+<img width="1920" height="1080" alt="Schematic" src="https://github.com/user-attachments/assets/072885a1-163e-4c1b-8a75-f5862c142e14" />
 
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
@@ -50,10 +51,9 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
-![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
-<img width="1920" height="1080" alt="Screenshot 2025-09-29 165135" src="https://github.com/user-attachments/assets/5438e6c2-3d34-4918-a2e9-04c7d1b24c1b" />
-
+<img width="1920" height="1080" alt="Transient Setup" src="https://github.com/user-attachments/assets/9e07d294-c879-465e-9591-4756fdb67dc4" />
+<img width="1920" height="1080" alt="ADE_L" src="https://github.com/user-attachments/assets/40da7a68-5b56-4565-aa7f-5687d342f701" />
+<img width="1920" height="1080" alt="Output" src="https://github.com/user-attachments/assets/1ff1c5ab-ec78-4b3f-a6bc-e6de79355cff" />
 
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
